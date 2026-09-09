@@ -1,4 +1,4 @@
-# Hi, I'm Katy 👋
+# Hi, I'm JingYi (Katy) Yang 👋
 
 I'm a Computer Engineering student at Trinity College Dublin with an interest in embedded systems, firmware, FPGA design, robotics and software engineering.
 
