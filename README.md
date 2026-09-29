@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at Trinity College Dublin with an interest in embedded systems, firmware, FPGA design, robotics and software engineering.
 
-I enjoy working on projects that combine software and hardware, and I'm particularly interested in understanding how systems work at a lower level.
+I enjoy working on projects that combine software and hardware.
 
 ## Technologies
 
